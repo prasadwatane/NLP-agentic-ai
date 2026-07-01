@@ -1,0 +1,37 @@
+# ============================================================================
+# AI CEO — Strategic Intelligence Agent (local / Streamlit)
+# Reasoning core: tool-calling LangGraph agent on a LOCAL open model (Ollama).
+# No commercial LLM API in the reasoning path. Frontend: Streamlit.
+# ============================================================================
+
+# --- Data collection ----------------------------------------------------------
+feedparser>=6.0.10            # RSS (news, company PR)
+praw>=7.7.0                   # Reddit API (optional; public-JSON fallback)
+
+# --- Embeddings + vector store ------------------------------------------------
+sentence-transformers>=2.7.0  # bge-small-en-v1.5 embeddings
+chromadb>=0.5.0               # persistent vector store
+
+# --- Local LLM (reasoning) ----------------------------------------------------
+ollama>=0.3.0                 # local model server client (qwen2.5:7b)
+
+# --- Agent orchestration (LangGraph + LangChain) ------------------------------
+langgraph>=0.6.0                    # tool-calling agent graph
+langgraph-checkpoint-sqlite>=2.0.0  # persistent conversational memory (legacy orchestrator)
+langchain-core>=0.3.0               # @tool, messages, bind_tools
+langchain-ollama>=0.2.0             # ChatOllama -> local Qwen2.5
+
+# --- Sentiment ----------------------------------------------------------------
+vaderSentiment>=3.3.2         # fast default sentiment
+transformers>=4.40.0          # optional FinBERT (USE_FINBERT=True in sentiment.py)
+torch>=2.2.0                  # backend for transformers / sentence-transformers
+
+# --- Frontend (Streamlit dashboard) -------------------------------------------
+streamlit>=1.35.0             # the dashboard + live CEO Q&A chat
+plotly>=5.20.0                # sentiment gauge + per-source bars
+
+# --- Utilities ----------------------------------------------------------------
+numpy>=1.26.0
+
+# --- Tests --------------------------------------------------------------------
+pytest>=8.0.0
