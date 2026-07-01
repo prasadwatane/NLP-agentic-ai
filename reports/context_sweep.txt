@@ -1,0 +1,62 @@
+CONTEXT (k) SWEEP · SAP
+Query: SAP competitive risks and growth opportunities
+
+=== k=2 (retrieved 2 snippets) ===
+[1] source=news | title=Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUxZeVV0OEdZVGszcTRCdnBBY2lEdGZqM2NBX0RtOUZ5WmFaVHNJRnZOM1h2Mm04ZkVSTFZDa3kwYmV0OWZ2TkkyeTQzd1BwVU4tU2Y1Z3k1RXFjWWM3SXlyclBOT3NQRnAyalNEWWpPeWhzeFU3eEw2djhUUERJblBkbzAxaWFybjVsNl9xYW5BWC0wcGc?oc=5
+    Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha. Workday: A Competitive Analysis With Oracle And SAP &nbsp;&nbsp; Seeking Alpha
+[2] source=hackernews | title=Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud | url=http://www.techdisruptive.com/2012/02/14/innovators-dilemma-at-its-finest-sap-oracle-and-the-cloud/
+    Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud
+
+=== k=4 (retrieved 4 snippets) ===
+[1] source=news | title=Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUxZeVV0OEdZVGszcTRCdnBBY2lEdGZqM2NBX0RtOUZ5WmFaVHNJRnZOM1h2Mm04ZkVSTFZDa3kwYmV0OWZ2TkkyeTQzd1BwVU4tU2Y1Z3k1RXFjWWM3SXlyclBOT3NQRnAyalNEWWpPeWhzeFU3eEw2djhUUERJblBkbzAxaWFybjVsNl9xYW5BWC0wcGc?oc=5
+    Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha. Workday: A Competitive Analysis With Oracle And SAP &nbsp;&nbsp; Seeking Alpha
+[2] source=hackernews | title=Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud | url=http://www.techdisruptive.com/2012/02/14/innovators-dilemma-at-its-finest-sap-oracle-and-the-cloud/
+    Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud
+[3] source=news | title=MicroStrategy with SAP - Strategy | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEdGYjg3akZid2d6aU4zWnFFOVUzQWdYX1p5NVJXaEQ2X0xYUjhLeVdPTkdkOW55SWNJcU5pc0Zscl9FcFZMYzdLTVhGRmRnZ3FkX3FqMGthOEJka0cwMlhJLUVMQi0zRGRRUlpOaXdfclU1OEF6OEk2ZjhqUGR4UkoxVDlVX1U1ZEFr?oc=5
+    MicroStrategy with SAP - Strategy. MicroStrategy with SAP &nbsp;&nbsp; Strategy
+[4] source=hackernews | title=Conway’s law but for software: Salesforce and SAP | url=http://redmonk.com/dberkholz/2013/10/28/conways-law-but-for-software-salesforce-and-sap/
+    Conway’s law but for software: Salesforce and SAP
+
+=== k=8 (retrieved 8 snippets) ===
+[1] source=news | title=Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUxZeVV0OEdZVGszcTRCdnBBY2lEdGZqM2NBX0RtOUZ5WmFaVHNJRnZOM1h2Mm04ZkVSTFZDa3kwYmV0OWZ2TkkyeTQzd1BwVU4tU2Y1Z3k1RXFjWWM3SXlyclBOT3NQRnAyalNEWWpPeWhzeFU3eEw2djhUUERJblBkbzAxaWFybjVsNl9xYW5BWC0wcGc?oc=5
+    Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha. Workday: A Competitive Analysis With Oracle And SAP &nbsp;&nbsp; Seeking Alpha
+[2] source=hackernews | title=Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud | url=http://www.techdisruptive.com/2012/02/14/innovators-dilemma-at-its-finest-sap-oracle-and-the-cloud/
+    Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud
+[3] source=news | title=MicroStrategy with SAP - Strategy | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEdGYjg3akZid2d6aU4zWnFFOVUzQWdYX1p5NVJXaEQ2X0xYUjhLeVdPTkdkOW55SWNJcU5pc0Zscl9FcFZMYzdLTVhGRmRnZ3FkX3FqMGthOEJka0cwMlhJLUVMQi0zRGRRUlpOaXdfclU1OEF6OEk2ZjhqUGR4UkoxVDlVX1U1ZEFr?oc=5
+    MicroStrategy with SAP - Strategy. MicroStrategy with SAP &nbsp;&nbsp; Strategy
+[4] source=hackernews | title=Conway’s law but for software: Salesforce and SAP | url=http://redmonk.com/dberkholz/2013/10/28/conways-law-but-for-software-salesforce-and-sap/
+    Conway’s law but for software: Salesforce and SAP
+[5] source=hackernews | title=The upstart that has Oracle and SAP on the defensive | url=http://tech.fortune.cnn.com/2012/03/12/why-workday-has-oracle-and-sap-worried/?iid=SF_F_LN
+    The upstart that has Oracle and SAP on the defensive
+[6] source=news | title=SAP Exit Strategies for the Cloud and AI - E3-Magazin | url=https://news.google.com/rss/articles/CBMib0FVX3lxTFBpeWl5bzJxdzRyWEkxOGZ4TF94ZmhJMUVWRktVdW5xRG4tTHJXdVNtdWlqWVI4aExDOUxJQVJBZF9HLXkxMmV3c2owR2hRUXlTbVIyU3hib25xcXBRd1JBSjlJaTFoc0kzNGJoeGs3Zw?oc=5
+    SAP Exit Strategies for the Cloud and AI - E3-Magazin. SAP Exit Strategies for the Cloud and AI &nbsp;&nbsp; E3-Magazin
+[7] source=news | title=SAP Once Again Scorches Salesforce, Oracle, and Workday with Q1 Cloud Growth of 27% - Cloud Wars | url=https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVJyNlFhcm1vWktSY3Bua0I3VWhLalJxTERnVk5teU1mVV9GdFZWaXNPeHMxOUFSZ2ZKRDNXZjBZQUZadzhEVkg0MFRLa3hTVlV3US1IMmhjeGI4dTUwX2M1aVpFWjdINkhQUHViSWNuSEpYS0Z5c1BmenpFOVZDMDM4dl9yMU5tNWNCbjl5S0tFMW9NMElyd01jWW8yOFFGZkJFZ2IyX0Z5Qm9acjFhTnNrZjhlZ01sTGM1Z3U5OXVZc2c?oc=5
+    SAP Once Again Scorches Salesforce, Oracle, and Workday with Q1 Cloud Growth of 27% - Cloud Wars. SAP Once Again Scorches Salesforce, Oracle, and Workday with Q1 Cloud Growth of 27% &nbsp;&nbsp; Cloud Wars
+[8] source=news | title=SAP Q4 2025 Earnings Analysis: Record Profits vs. Cloud Growth Concerns - ERP Today | url=https://news.google.com/rss/articles/CBMibkFVX3lxTFA1cmw4VzQ5YThIOEF4ZFhBdlFsclMtRGtHdGI3cUN0S3V5cFF2QkYwVWppejFPWmlJZnhKUzZxUGVLR3ZLMXZUSUd3MVEzRUE1MnFJVzQ5QWhhU0VPQUxsNmZzZWI1UDBYYU1lTkxn?oc=5
+    SAP Q4 2025 Earnings Analysis: Record Profits vs. Cloud Growth Concerns - ERP Today. SAP Q4 2025 Earnings Analysis: Record Profits vs. Cloud Growth Concerns &nbsp;&nbsp; ERP Today
+
+=== k=12 (retrieved 12 snippets) ===
+[1] source=news | title=Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUxZeVV0OEdZVGszcTRCdnBBY2lEdGZqM2NBX0RtOUZ5WmFaVHNJRnZOM1h2Mm04ZkVSTFZDa3kwYmV0OWZ2TkkyeTQzd1BwVU4tU2Y1Z3k1RXFjWWM3SXlyclBOT3NQRnAyalNEWWpPeWhzeFU3eEw2djhUUERJblBkbzAxaWFybjVsNl9xYW5BWC0wcGc?oc=5
+    Workday: A Competitive Analysis With Oracle And SAP - Seeking Alpha. Workday: A Competitive Analysis With Oracle And SAP &nbsp;&nbsp; Seeking Alpha
+[2] source=hackernews | title=Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud | url=http://www.techdisruptive.com/2012/02/14/innovators-dilemma-at-its-finest-sap-oracle-and-the-cloud/
+    Innovator’s Dilemma at its Finest – SAP, Oracle, and the Cloud
+[3] source=news | title=MicroStrategy with SAP - Strategy | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEdGYjg3akZid2d6aU4zWnFFOVUzQWdYX1p5NVJXaEQ2X0xYUjhLeVdPTkdkOW55SWNJcU5pc0Zscl9FcFZMYzdLTVhGRmRnZ3FkX3FqMGthOEJka0cwMlhJLUVMQi0zRGRRUlpOaXdfclU1OEF6OEk2ZjhqUGR4UkoxVDlVX1U1ZEFr?oc=5
+    MicroStrategy with SAP - Strategy. MicroStrategy with SAP &nbsp;&nbsp; Strategy
+[4] source=hackernews | title=Conway’s law but for software: Salesforce and SAP | url=http://redmonk.com/dberkholz/2013/10/28/conways-law-but-for-software-salesforce-and-sap/
+    Conway’s law but for software: Salesforce and SAP
+[5] source=hackernews | title=The upstart that has Oracle and SAP on the defensive | url=http://tech.fortune.cnn.com/2012/03/12/why-workday-has-oracle-and-sap-worried/?iid=SF_F_LN
+    The upstart that has Oracle and SAP on the defensive
+[6] source=news | title=SAP Exit Strategies for the Cloud and AI - E3-Magazin | url=https://news.google.com/rss/articles/CBMib0FVX3lxTFBpeWl5bzJxdzRyWEkxOGZ4TF94ZmhJMUVWRktVdW5xRG4tTHJXdVNtdWlqWVI4aExDOUxJQVJBZF9HLXkxMmV3c2owR2hRUXlTbVIyU3hib25xcXBRd1JBSjlJaTFoc0kzNGJoeGs3Zw?oc=5
+    SAP Exit Strategies for the Cloud and AI - E3-Magazin. SAP Exit Strategies for the Cloud and AI &nbsp;&nbsp; E3-Magazin
+[7] source=news | title=SAP Once Again Scorches Salesforce, Oracle, and Workday with Q1 Cloud Growth of 27% - Cloud Wars | url=https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVJyNlFhcm1vWktSY3Bua0I3VWhLalJxTERnVk5teU1mVV9GdFZWaXNPeHMxOUFSZ2ZKRDNXZjBZQUZadzhEVkg0MFRLa3hTVlV3US1IMmhjeGI4dTUwX2M1aVpFWjdINkhQUHViSWNuSEpYS0Z5c1BmenpFOVZDMDM4dl9yMU5tNWNCbjl5S0tFMW9NMElyd01jWW8yOFFGZkJFZ2IyX0Z5Qm9acjFhTnNrZjhlZ01sTGM1Z3U5OXVZc2c?oc=5
+    SAP Once Again Scorches Salesforce, Oracle, and Workday with Q1 Cloud Growth of 27% - Cloud Wars. SAP Once Again Scorches Salesforce, Oracle, and Workday with Q1 Cloud Growth of 27% &nbsp;&nbsp; Cloud Wars
+[8] source=news | title=SAP Q4 2025 Earnings Analysis: Record Profits vs. Cloud Growth Concerns - ERP Today | url=https://news.google.com/rss/articles/CBMibkFVX3lxTFA1cmw4VzQ5YThIOEF4ZFhBdlFsclMtRGtHdGI3cUN0S3V5cFF2QkYwVWppejFPWmlJZnhKUzZxUGVLR3ZLMXZUSUd3MVEzRUE1MnFJVzQ5QWhhU0VPQUxsNmZzZWI1UDBYYU1lTkxn?oc=5
+    SAP Q4 2025 Earnings Analysis: Record Profits vs. Cloud Growth Concerns - ERP Today. SAP Q4 2025 Earnings Analysis: Record Profits vs. Cloud Growth Concerns &nbsp;&nbsp; ERP Today
+[9] source=news | title=From Cost to Capability: Why External Talent Is Your Competitive Edge - SAP News Center | url=https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2I5RGxma1dTR2hyb01VcXlxYTNCUVdsN251OXIzQnFlMzV1RVV1VDctSGFxekdQRmlnZUREczJqMUs5M2pyNlM0bmlxN095ZXlLbkIwbWh2NU1qSGd4WFEyN253Y0dTMG5CVUNnd1FYOFFsLXJOaHpDOUJKdTBvdXZMWEhiS1NMSi10dQ?oc=5
+    From Cost to Capability: Why External Talent Is Your Competitive Edge - SAP News Center. From Cost to Capability: Why External Talent Is Your Competitive Edge &nbsp;&nbsp; SAP News Center
+[10] source=hackernews | title=SAP Cyber Security in Figures: Global Threat Report 2016 | url=http://sap.cioreview.com/whitepaper/sap-cyber-security-in-figures-wid-437.html?utm_campaign=aa10
+    SAP Cyber Security in Figures: Global Threat Report 2016
+[11] source=hackernews | title=Software company SAP: World-leading through intellectual property theft? | url=https://www.tagesschau.de/investigativ/mdr/sap-geistiges-eigentum-101.html
+    Software company SAP: World-leading through intellectual property theft?
+[12] source=news | title=SAP Growth Spurt: Decisively Outpacing Oracle, ServiceNow, Workday, Microsoft - Cloud Wars | url=https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkt5MFQwUUJveTJMa1hDU3EzVjIwemZsUGpmY0swMUJMYnFVT3ZzSG00QVFXX0pnY3l1N21CaGNDVVRMVmZIb3I5YjhVOXg5Sk1zN3JBTjdRRk5zblFQYktZUmR0MmpLNHdPdkRFWHdnNXNCbkdQLTRyRFktSDJOTWxzclp1VC1uMlByU1FEcmJNU1VVLWdEcmFpOUxPLWp2cC1xLVBkRWtRbG84NnBaaXNialQ?oc=5
+    SAP Growth Spurt: Decisively Outpacing Oracle, ServiceNow, Workday, Microsoft - Cloud Wars. SAP Growth Spurt: Decisively Outpacing Oracle, ServiceNow, Workday, Microsoft &nbsp;&nbsp; Cloud Wars
